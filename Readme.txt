@@ -1,0 +1,1 @@
+Shelli oluşturup yazdım B221210071 Yavuz Emre Gündüz
