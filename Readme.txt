@@ -1,1 +1,2 @@
-Shelli oluşturup yazdım B221210071 Yavuz Emre Gündüz
+b221210071 Yavuz Emre Gündüz
+b221210080 Çağrı Tükenmez

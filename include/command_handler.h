@@ -1,0 +1,12 @@
+//B221210080 ÇAĞRI TÜKENMEZ
+//B221210038 DENİZ UMUR
+//B231210350 MELİH DEDEOĞLU
+//B221210071 YAVUZ EMRE GÜNDÜZ
+//B211210015 BUĞRA BASTABAN
+
+#ifndef COMMAND_HANDLER_H
+#define COMMAND_HANDLER_H
+#define MAX_ARGS 100
+void execute_single_command(char *command, int background);
+
+#endif
